@@ -1,0 +1,5 @@
+code,description,unit,unit_price_eur
+CONSULTANT_DAY,Consultant day,day,950
+PARTNER_DAY,Partner day,day,1600
+WORKSHOP_HALF_DAY,"Facilitated half-day workshop (partner + consultant, incl. preparation and materials)",session,2400
+BOARD_PACK,Board pack (summary deck + one partner presentation),fixed,3500

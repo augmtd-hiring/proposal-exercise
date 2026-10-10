@@ -1,0 +1,30 @@
+{
+  "deal_id": "D-2026-041",
+  "company": "Northwind Logistics",
+  "company_domain": "northwind.example",
+  "stage": "Proposal",
+  "owner": "Sam Moreau",
+  "source": "Referral",
+  "budget_eur": 20000,
+  "budget_updated": "2026-09-02",
+  "expected_close": "2026-10-31",
+  "economic_buyer": "Tom Becker (CFO)",
+  "primary_contact": "Priya Nair (Head of Operations)",
+  "notes": [
+    {
+      "date": "2026-09-02",
+      "author": "Sam Moreau",
+      "text": "Intro call booked via referral. Priya says roughly 20k set aside for an outside review this year."
+    },
+    {
+      "date": "2026-09-18",
+      "author": "Sam Moreau",
+      "text": "Discovery call done. Strong fit for diagnostic + workshops. Notes in meetings folder."
+    },
+    {
+      "date": "2026-10-01",
+      "author": "Sam Moreau",
+      "text": "Tom Becker is on parental leave until mid-November. Priya is the point of contact meanwhile."
+    }
+  ]
+}

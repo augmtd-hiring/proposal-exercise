@@ -1,0 +1,19 @@
+{
+  "now": "2026-10-09T09:00:00+01:00",
+  "timezone": "Europe/Lisbon",
+  "locale": "en-GB",
+  "currency": "EUR",
+  "user": {
+    "name": "Sam Moreau",
+    "email": "sam@acme-advisory.example",
+    "role": "Partner"
+  },
+  "firm": {
+    "name": "Acme Advisory",
+    "kind": "Operations consulting",
+    "address": "Rua das Flores 12, 1200-195 Lisboa, Portugal",
+    "vat_id": "PT500000000",
+    "website": "acme-advisory.example"
+  },
+  "request": "Can you prepare the proposal for Northwind? Everything we know is in there somewhere."
+}
