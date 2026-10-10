@@ -1,8 +1,8 @@
 # AUGMTD engineering exercise: prepare the proposal
 
 Thanks for taking the time. This is a small, open slice of the kind of work you'd do with us. Please
-**do not spend about more than 2 hours**. We care about your judgment far more than polish, and choosing what to leave
-out is part of the exercise.
+**don't spend more than 2 hours** on it. We care about your judgment far more than polish, and choosing
+what to leave out is part of the exercise.
 
 ## Getting started
 
