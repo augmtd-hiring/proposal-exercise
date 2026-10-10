@@ -72,10 +72,10 @@ Your command must write:
   ```
 
 - `out/model_log.jsonl`: every request sent to a language model, exactly as sent, one JSON object per
-  line. If you send nothing, leave it empty. We will read this file.
+  line. If you send nothing, still create the file, empty. We will read this file.
 
 Anything else (an outline, questions for Sam, a summary of changes, a review step) is up to you. Put
-it in `out/` too.
+it in `out/` too. You don't need to commit `out/` (it's git-ignored): we run your command ourselves.
 
 ## Model setup
 
@@ -84,8 +84,10 @@ Use any OpenAI-compatible chat completions endpoint, configured only through env
 
     LLM_BASE_URL   LLM_API_KEY   LLM_MODEL
 
-We'll run your code against a different provider and model than yours, possibly a self-hosted one, so
-avoid provider-specific features. One run should cost well under €0.50.
+Use your own key: a full run costs a few cents. If you don't have one, a local model through Ollama
+or LM Studio speaks the same API. When we run your command we set these three variables ourselves,
+against a different provider and model than yours, possibly a self-hosted one, so avoid
+provider-specific features.
 
 ## DECISIONS.md
 
@@ -111,8 +113,7 @@ think the review experience matters, describe it.
 ## Submitting
 
 1. Make sure the command runs from a clean checkout, and push your work.
-2. In your repository: **Settings → Collaborators → Add people → `alexcollignon`** (read access is
-   enough).
+2. In your repository: **Settings → Collaborators → Add people → `alexcollignon`**.
 3. Reply to our e-mail with your repository link, by the date we agreed.
 
 We review the latest commit at the moment you send the link. Please keep the exercise and your solution
