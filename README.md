@@ -4,6 +4,12 @@ Thanks for taking the time. This is a small, open slice of the kind of work you'
 spend about **2 hours**. We care about your judgment far more than polish, and choosing what to leave
 out is part of the exercise.
 
+## Getting started
+
+1. Click **Use this template → Create a new repository** (top right of this page).
+2. Create it in your own account and set it to **Private**. Please don't make your solution public.
+3. Clone it and work there.
+
 ## Context
 
 AUGMTD is a proactive AI work platform. Most AI tools wait to be asked; AUGMTD gets ahead of the work.
@@ -104,9 +110,13 @@ think the review experience matters, describe it.
 
 ## Submitting
 
-Commit and push to this repository before the deadline in your invite. The repository becomes
-read-only after that. Make sure the command runs from a clean checkout. Please keep the exercise and
-your solution private.
+1. Make sure the command runs from a clean checkout, and push your work.
+2. In your repository: **Settings → Collaborators → Add people → `alexcollignon`** (read access is
+   enough).
+3. Reply to our e-mail with your repository link, by the date we agreed.
+
+We review the latest commit at the moment you send the link. Please keep the exercise and your solution
+private.
 
 ## What happens next
 
